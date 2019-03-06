@@ -27,13 +27,13 @@ roles:
 products:
 - azure
 units:
-- learn.wwl-playground.train-local-model-with-azure-mls.create-ml-experiment
 - learn.wwl-playground.train-local-model-with-azure-mls.introduction
 - learn.wwl-playground.train-local-model-with-azure-mls.simple-log-regression-model
-- learn.wwl-playground.train-local-model-with-azure-mls.k-nearest-sklearn
 - learn.wwl-playground.train-local-model-with-azure-mls.run-log-reg-model-sklearn
+- learn.wwl-playground.train-local-model-with-azure-mls.k-nearest-sklearn
+- learn.wwl-playground.train-local-model-with-azure-mls.create-ml-experiment
 - learn.wwl-playground.train-local-model-with-azure-mls.sign-into-experimentation-service
-- learn.wwl-playground.train-local-model-with-azure-mls.summary
 - learn.wwl-playground.train-local-model-with-azure-mls.train-model-using-experiment-service
+- learn.wwl-playground.train-local-model-with-azure-mls.summary
 badge:
   uid: learn.data-ai.train-local-model-with-azure-mls.badge
