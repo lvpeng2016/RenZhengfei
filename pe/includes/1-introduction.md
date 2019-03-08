@@ -1,15 +1,25 @@
-Once the workspace is created, you can start to build and train models.
+There are many types of computers that are used for everyday tasks.
 
-Training a machine learning model could be as easy as loading the data and running one line of code from packages like Scikit-Learn, but most of the time the process requires more. Before you apply different models, you need to understand how the dataset looks and apply the best model.
+![Various computing devices illustrated](../media/Computers_Illustration.jpg)
 
-In this module, you will use the MNIST dataset as an example to explore the Azure Machine Learning service. You can build and train your model both locally or via remote containers. You  train a simple logistic regression model and a series of kNN models to find the one with the highest accuracy. This example is an image classification problem in which you want to determine the number contained in an image.
+In this lesson, we'll explore what a computer is, the parts of a computer and how to interact with a computer.
 
-## Learning Objectives
+**By the end of this lesson you will be able to:**
 
-In this module you will:
+*   Describe the functions of a computer.
 
-- Create a simple logistic model to recognize numbers contained in images from the MNIST dataset
-- Create a series of kNN models to find the one with the highest accuracy
-- Create an Azure Machine Learning experiment
-- Train a model using the Azure Machine Learning service
-- Submit the model, monitor the run, and retrieve the results
+*   Differentiate between computer hardware and software.
+
+*   Describe the primary parts of a computer and the use of each part.
+
+*   Describe the various types of modern personal computing devices and their uses.
+
+Keep the following **guiding questions** in mind as you complete this lesson. See if you can answer them on your own at the end of the lesson:
+
+1.  What are the primary functions of a computer?
+
+2.  What is the difference between computer hardware and software?
+
+3.  What are the primary hardware parts that make up a computer?
+
+4.  What are the common types of personal computing devices?
