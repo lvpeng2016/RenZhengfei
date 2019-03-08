@@ -549,13 +549,13 @@ iconUrl: /learn/achievements/generic-badge.svg
 levels:
 - beginner
 roles:
-- administrator
+- administrator;data-scientist
 products:
 - windows
 units:
 - learn.wwl-playground.learn.demo-interact-with-a-computer.learn.demo-interact-with-a-computer.demo-introduction
+- learn.wwl-playground.learn.demo-interact-with-a-computer.learn.demo-interact-with-a-computer.demo-what-is-a-computer
 - learn.wwl-playground.learn.demo-interact-with-a-computer.learn.demo-interact-with-a-computer.demo-parts-of-a-computer
 - learn.wwl-playground.learn.demo-interact-with-a-computer.learn.demo-interact-with-a-computer.demo-types-of-personal-computers
-- learn.wwl-playground.learn.demo-interact-with-a-computer.learn.demo-interact-with-a-computer.demo-what-is-a-computer
 badge:
   uid: learn.demo-interact-with-a-computer.badge
