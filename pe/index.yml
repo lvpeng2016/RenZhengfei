@@ -10,7 +10,7 @@ metadata:
   ms.prod: learning-azure
   ms.learn-contact: ''
 title: Train a local ML model with Azure Machine Learning service
-summary: Train a local ML model with Azure Machine Learning service (updated by star )
+summary: Train a local ML model with Azure Machine Learning service (updated by star on 3/10/2019 09:56)
 abstract: |
   In this module, you will:
   - Create a simple logistic model to recognize numbers contained in images from the MNIST dataset?
@@ -21,8 +21,9 @@ abstract: |
 prerequisites: None
 iconUrl: /learn/achievements/generic-badge.svg
 levels:
-- ''
+- advanced
 roles:
+- administrator
 - data-scientist
 products:
 - azure
