@@ -1,0 +1,32 @@
+### YamlMime:Module
+uid: learn.wwl-playground.learn.demo-interact-with-a-computer
+metadata:
+  title: Demo-Interact with a Computer
+  description: Demo-Interact with a Computer
+  ms.date: 3/8/2019 12:00:00 AM
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ms.learn-contact: ''
+title: Demo-Interact with a Computer
+summary: We'll explore what a computer is, the parts of a computer and how to interact with a computer.
+abstract: |
+  In this module, you will:
+  - 'In this module, you will be able to:'
+  - Describe the functions of a computer.
+  - Differentiate between computer hardware and software.
+  - Describe the primary parts of a computer and the use of each part.
+  - Describe the various types of modern personal computing devices and their uses.
+prerequisites: None
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+- data-scientist
+products:
+- windows
+units: []
+badge:
+  uid: learn.demo-interact-with-a-computer.badge
