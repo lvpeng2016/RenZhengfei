@@ -1,35 +1,35 @@
 ### YamlMime:Module
-uid: learn.wwl-playground.learn.demo-use-a-computer
+uid: learn.wwl-playground.train-local-model-with-azure-mls
 metadata:
-  title: Demo-Use a Computer
-  description: Demo-Use a Computer
-  ms.date: 3/8/2019 12:00:00 AM
+  title: Train a local ML model with Azure Machine Learning service - Learn
+  description: Train a local ML model with Azure Machine Learning service - Learn
+  ms.date: 3/15/2019 12:00:00 AM
   author: bcafferky
   ms.author: brcaffer
   ms.topic: interactive-tutorial
-  ms.prod: learning-windows
+  ms.prod: learning-azure
   ms.learn-contact: ''
-title: Demo-Use a Computer
-summary: You will learn how to operate a computer to perform basic tasks.
+title: Train a local ML model with Azure Machine Learning service
+summary: Train a local ML model with Azure Machine Learning service (updated by star on 2019/3/11 16:31)
 abstract: |
-  In this module, you will:
-  - Describe the role of an operating system.
-  - Navigate the Windows 10 operating system.
-  - Organize files and folders in Windows 10.
-  - Use the right-click to access system features.
-  - Customize your operating system desktop.
+  In this module, you will: []
 prerequisites: None
 iconUrl: /learn/achievements/generic-badge.svg
 levels:
-- beginner
+- advanced
 roles:
 - administrator
+- data-scientist
 products:
-- windows
+- azure
 units:
-- learn.wwl-playground.learn.demo-use-a-computer.learn.demo-use-a-computer.demo-work-with-files-and-folders
-- learn.wwl-playground.learn.demo-use-a-computer.learn.demo-use-a-computer.demo-get-to-know-the-operating-system
-- learn.wwl-playground.learn.demo-use-a-computer.learn.demo-use-a-computer.demo-intro-to-operating-systems
-- learn.wwl-playground.learn.demo-use-a-computer.learn.demo-use-a-computer.demo-introduction
+- learn.wwl-playground.train-local-model-with-azure-mls.introduction
+- learn.wwl-playground.train-local-model-with-azure-mls.simple-log-regression-model
+- learn.wwl-playground.train-local-model-with-azure-mls.run-log-reg-model-sklearn
+- learn.wwl-playground.train-local-model-with-azure-mls.k-nearest-sklearn
+- learn.wwl-playground.train-local-model-with-azure-mls.create-ml-experiment
+- learn.wwl-playground.train-local-model-with-azure-mls.sign-into-experimentation-service
+- learn.wwl-playground.train-local-model-with-azure-mls.train-model-using-experiment-service
+- learn.wwl-playground.train-local-model-with-azure-mls.summary
 badge:
-  uid: learn.demo-use-a-computer.badge
+  uid: learn.data-ai.train-local-model-with-azure-mls.badge
