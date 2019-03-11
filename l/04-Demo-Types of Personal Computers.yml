@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.learn.demo-interact-with-a-computer.learn.demo-interact-with-a-computer.demo-types-of-personal-computers
+title: 04-Demo-Types of Personal Computers
+metadata:
+  title: Demo-Types of Personal Computers
+  description: Demo-Types of Personal Computers
+  ms.date: 3/8/2019 12:00:00 AM
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 3
+content: |
+ [!include[](includes/4-types-of-personal-computers.md)]
