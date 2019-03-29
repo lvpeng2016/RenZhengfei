@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.learn.demo-use-a-computer.learn.demo-use-a-computer.demo-get-to-know-the-operating-system
+title: 02-Demo-Get to Know the Operating System
+metadata:
+  title: Demo-Get to Know the Operating System
+  description: Demo-Get to Know the Operating System
+  ms.date: 3/8/2019 12:00:00 AM
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 3
+content: |
+ [!include[](includes/3-get-to-know-the-operating-system.md)]
