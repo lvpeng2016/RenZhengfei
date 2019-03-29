@@ -1,0 +1,92 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.learn.demo-use-a-computer.learn.demo-use-a-computer.demo-intro-to-operating-systems
+title: 03-Demo-Intro to Operating Systems
+metadata:
+  title: Demo-Intro to Operating Systems
+  description: Demo-Intro to Operating Systems
+  ms.date: 3/8/2019 12:00:00 AM
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 3
+content: |
+ [!include[](includes/2-intro-to-operating-systems.md)]
+quiz:
+  title: "Check your knowledge (** markdown type **)(can be ignored )\r\nthis is still the part of quiz title \r\nthis is still the part of quiz title \r\n"
+  content: |
+ "Check your knowledge (** markdown type **)(can be ignored )\r\nthis is still the part of quiz title \r\nthis is still the part of quiz title \r\n---\r\nwhat is an operation system?\r\n>>An operating system is the most important ___________ on the computer.<<\r\n\r\n( ) hardware component {{incorrect choice}}\r\n(x) software {{correct choice}}\r\n( ) peripheral device {{incorrect choice}}\r\n\r\n---\r\n\r\n>>What happens when you select the Minimize (-) button on / at the top of an application window?<<\r\n\r\n( ) The window is closed {{incorrect choice}}\r\n(x) The window is temporarily hidden {{correct choice}}\r\n( ) The window is opened in full screen {{incorrect choice}}\r\n( ) The window is moved to the side of the screen {{incorrect choice}}"
+  problems:
+  - title: >-
+      what is an operation system?
+
+      An operating system is the most important ___________ on the computer.
+    content: |
+ >2+
+
+
+      what is an operation system?
+
+      >>An operating system is the most important ___________ on the computer.<<
+
+
+
+      ( ) hardware component {{incorrect choice}}
+
+      (x) software {{correct choice}}
+
+      ( ) peripheral device {{incorrect choice}}
+
+
+
+    choices:
+    - content: |
+ ( ) hardware component {{incorrect choice}}
+      Text: hardware component
+      Explanation: incorrect choice
+    - content: |
+ (x) software {{correct choice}}
+      Text: software
+      IsCorrect: true
+      Explanation: correct choice
+    - content: |
+ ( ) peripheral device {{incorrect choice}}
+      Text: peripheral device
+      Explanation: incorrect choice
+  - title: What happens when you select the Minimize (-) button on / at the top of an application window?
+    content: |
+ >2-
+
+
+
+
+      >>What happens when you select the Minimize (-) button on / at the top of an application window?<<
+
+
+
+      ( ) The window is closed {{incorrect choice}}
+
+      (x) The window is temporarily hidden {{correct choice}}
+
+      ( ) The window is opened in full screen {{incorrect choice}}
+
+      ( ) The window is moved to the side of the screen {{incorrect choice}}
+    choices:
+    - content: |
+ ( ) The window is closed {{incorrect choice}}
+      Text: The window is closed
+      Explanation: incorrect choice
+    - content: |
+ (x) The window is temporarily hidden {{correct choice}}
+      Text: The window is temporarily hidden
+      IsCorrect: true
+      Explanation: correct choice
+    - content: |
+ ( ) The window is opened in full screen {{incorrect choice}}
+      Text: The window is opened in full screen
+      Explanation: incorrect choice
+    - content: |
+ ( ) The window is moved to the side of the screen {{incorrect choice}}
+      Text: The window is moved to the side of the screen
+      Explanation: incorrect choice
