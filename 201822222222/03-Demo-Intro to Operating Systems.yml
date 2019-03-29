@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.learn.demo-use-a-computer.learn.demo-use-a-computer.demo-intro-to-operating-systems
+title: 03-Demo-Intro to Operating Systems
+metadata:
+  title: Demo-Intro to Operating Systems
+  description: Demo-Intro to Operating Systems
+  ms.date: 3/8/2019 12:00:00 AM
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 3
+content: |
+ [!include[](includes/2-intro-to-operating-systems.md)]
+quiz:
+  title: "Check your knowledge (** markdown type **)(can be ignored )\r\nthis is still the part of quiz title \r\nthis is still the part of quiz title \r\n"
+  problems:
+  - content: |
+ >-
+      what is an operation system?
+
+      An operating system is the most important ___________ on the computer.
+    choices:
+    - content: |
+ hardware component
+      explanation: incorrect choice
+    - content: |
+ software
+      isCorrect: true
+      explanation: correct choice
+    - content: |
+ peripheral device
+      explanation: incorrect choice
+  - content: |
+ What happens when you select the Minimize -) button on / at the top of an application window?
+    choices:
+    - content: |
+ The window is closed
+      explanation: incorrect choice
+    - content: |
+ The window is temporarily hidden
+      isCorrect: true
+      explanation: correct choice
+    - content: |
+ The window is opened in full screen
+      explanation: incorrect choice
+    - content: |
+ The window is moved to the side of the screen
+      explanation: incorrect choice
