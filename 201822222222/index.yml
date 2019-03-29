@@ -1,0 +1,35 @@
+### YamlMime:Module
+uid: learn.wwl-playground.learn.demo-use-a-computer
+metadata:
+  title: Demo-Use a Computer
+  description: Demo-Use a Computer
+  ms.date: 3/8/2019 12:00:00 AM
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ms.learn-contact: ''
+title: Demo-Use a Computer
+summary: You will learn how to operate a computer to perform basic tasks.
+abstract: |
+  In this module, you will:
+  - Describe the role of an operating system.
+  - Navigate the Windows 10 operating system.
+  - Organize files and folders in Windows 10.
+  - Use the right-click to access system features.
+  - Customize your operating system desktop.
+prerequisites: None
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+units:
+- learn.wwl-playground.learn.demo-use-a-computer.learn.demo-use-a-computer.demo-work-with-files-and-folders
+- learn.wwl-playground.learn.demo-use-a-computer.learn.demo-use-a-computer.demo-get-to-know-the-operating-system
+- learn.wwl-playground.learn.demo-use-a-computer.learn.demo-use-a-computer.demo-intro-to-operating-systems
+- learn.wwl-playground.learn.demo-use-a-computer.learn.demo-use-a-computer.demo-introduction
+badge:
+  uid: learn.demo-use-a-computer.badge
