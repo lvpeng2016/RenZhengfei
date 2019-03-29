@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.learn.demo-use-a-computer.learn.demo-use-a-computer.demo-work-with-files-and-folders
+title: 01-Demo-Work with Files and Folders
+metadata:
+  title: Demo-Work with Files and Folders
+  description: Demo-Work with Files and Folders
+  ms.date: 3/8/2019 12:00:00 AM
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 3
+content: |
+ [!include[](includes/4-work-with-files-and-folders.md)]
