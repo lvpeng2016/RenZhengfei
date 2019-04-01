@@ -30,3 +30,43 @@ y_test = load_data('./data/test-labels.gz', True).reshape(-1)
 Here is an example of the dataset. The numbers on top are the labels, and the handwritten pictures are in the second row.
 
 ![Screenshot of Hard-written picture Example](../media/2-hand-written.png)
+
+#### Video: Parts of a Computer
+> [!VIDEO https://www.youtube.com/embed/sUssQdoEYb4]
+
+// one blank
+
+> [!VIDEO https://www.youtube.com/embed/sUssQdoEYb4]
+
+> [!VIDEO https://www.youtube.com/embed/ApKlrP1LqZw]
+
+// two blanks
+
+> [!VIDEO https://www.youtube.com/embed/ApKlrP1LqZw]
+
+> [!VIDEO https://www.youtube.com/embed/ApKlrP1LqZw]
+
+// many blanks
+
+> [!VIDEO https://www.youtube.com/embed/ApKlrP1LqZw]
+
+> [!VIDEO https://www.youtube.com/embed/ApKlrP1LqZw]
+
+// pre blank
+
+> [!VIDEO https://www.youtube.com/embed/ApKlrP1LqZw]
+
+> [!VIDEO https://www.youtube.com/embed/ApKlrP1LqZw]
+
+// many pre blanks
+
+> [!VIDEO https://www.youtube.com/embed/ApKlrP1LqZw]
+
+> [!VIDEO https://www.youtube.com/embed/ApKlrP1LqZw]
+
+// many pre and latter blanks
+
+> [!VIDEO https://www.youtube.com/embed/ApKlrP1LqZw]
+
+edX_intro_final.mp4
+**Watch the following video to learn about the hardware component
