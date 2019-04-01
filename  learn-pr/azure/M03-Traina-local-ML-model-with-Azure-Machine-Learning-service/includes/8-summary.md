@@ -3,3 +3,9 @@ In this module, you used the MNIST dataset to explore the Azure Machine Learning
 **Run**, within the context of the Azure Machine Learning service, refers to Python code for a specific task, for example, training a model or tuning hyperparameters. Run does the job of logging metrics and upload result to Azure platform, it's a more natural way to keep track of jobs in your Workspace.
 
 **Experiment** is a term referring to a composition of a series of runs. In the example, you have one run for the logistic regression model and another for the KNN model, and together they make up an experiment for you to compare results.
+
+
+#### Video: Connect to the Internet
+> [!VIDEO Connect_to_the_Internet.mp4]
+
+
