@@ -13,3 +13,41 @@ metadata:
 durationInMinutes: 3
 content: |
  [!include[](includes/8-summary.md)]
+quiz:
+  title: "Check your knowledge (** markdown type **)(can be ignored )\nthis is still the part of quiz title \nthis is still the part of quiz title \n"
+  problems:
+  - content: |
+ >-
+      what is an operation system?
+
+      An operating system is the most important ___________ on the computer.
+    choices:
+    - content: |
+ hardware component
+      explanation: incorrect choice
+    - content: |
+ software
+      isCorrect: true
+      explanation: correct choice
+    - content: |
+ peripheral device
+      explanation: incorrect choice
+  - content: |
+ 
+    choices: []
+  - content: |
+ 
+    choices: []
+  - content: |
+ What happens when you select the Minimize -) button on / at the top of an application window?
+    choices:
+    - content: |
+ The window is closed
+      explanation: incorrect choice
+    - content: |
+ The window is temporarily hidden
+      isCorrect: true
+      explanation: correct choice
+    - content: |
+ The window is opened in full screen
+      explanation: incorrect choice
