@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.train-local-model-with-azure-mls.simple-log-regression-model
+title: 02-Load the data for a simple logistics regression model
+metadata:
+  title: Load the data for a simple logistics regression model - Learn
+  description: Load the data for a simple logistics regression model - Learn
+  ms.date: 1/31/2019 12:00:00 AM
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 3
+content: |
+ [!include[](includes/2-simple-log-regression-model.md)]
